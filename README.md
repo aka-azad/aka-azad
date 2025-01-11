@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Ashrafuzzaman Azad from Bangladesh<br><br>- 🔭 I’m working as Front-End Web Developer <br>- 📚 I'm currently learning to be a Full Stack web developer<br>- ⚡ In my free time I like to spend my time in a peaceful environment. It helps me to boost my working energy.</p>
+<p align="left">I'm a <strong> Frontend Web Developer </strong> from Bangladesh<br><br>- 🔭 I’m working as Front-End Web Developer <br>- 📚 I'm currently learning to be a Full Stack web developer<br>- ⚡ In my free time I like to spend my time in a peaceful environment. It helps me to boost my working energy.</p>
 
 ###
 
